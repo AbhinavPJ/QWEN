@@ -2,7 +2,7 @@
 
 This project deploys the `Qwen/Qwen3-VL-2B-Instruct` model as a Flask web application, providing a simple web UI and callable API endpoints for both vision-text and text-only inference.
 
-![alt text](https://github.com/AbhinavPJ/QWEN/blob/main/france.png?raw=true)
+![alt text](https://github.com/AbhinavPJ/QWEN/blob/main/result.png?raw=true)
 
 ##  Live Demo
 
